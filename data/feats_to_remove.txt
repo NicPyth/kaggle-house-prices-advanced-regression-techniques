@@ -1,0 +1,7 @@
+PoolQC
+Alley
+FireplaceQu
+MiscFeature
+LotFrontage
+Fence
+MasVnrType
